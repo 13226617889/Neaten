@@ -1,0 +1,23 @@
+本软件由Python制作     赤心M
+
+目前只支持 64位
+JPG PNG PASD XLS XLSX LNK TXT PY VSDX等
+
+使用方法：
+输入整理路径 例如 C:\Users\Administrator\Desktop
+
+# 存放整理好的文件的路径，不填存储路径的话，默认在整理路径处存放
+输入存储路径 例如 C:\Users\Administrator\Desktop  
+
+不创建包容的文件夹 按钮 
+不勾选上 == 创建个文件夹包容整理的文件
+勾选上  == 不创建文件夹包容整理文件
+
+输入完成后，点击整理即可
+
+整理文件名字  == 整理的后缀名
+例如整理PNG  文件夹名 == png
+
+
+如有BUG欢迎提供BUG到邮箱
+Bug 提交方式，2506716617@qq.com，谢谢
